@@ -143,6 +143,23 @@ This practice is an inversion of the 1st Law of Behavior Change. **Rather than m
 
 **Self-control is a short-term strategy, not a long-term one**. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time. Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment. This is the secret to self-control.
 
+# Make It Attractive
+## THE DOPAMINE-DRIVEN FEEDBACK LOOP
+Dopamine is released not only when you experience pleasure, but also when you anticipate it.
 
+Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
 
- 
+After [HABIT I NEED], I will [HABIT I WANT]
+
+## How to Find and Fix the Causes of Your Bad Habits
+Your habits are modern-day solutions to ancient desires.
+- Find love and reproduce = using Tinder
+- Connect and bond with others = browsing Facebook
+- Win social acceptance and approval = posting on Instagram
+- Reduce uncertainty = searching on Google
+- Achieve status and prestige = playing video games
+
+## HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS
+- change 'have to' to 'get to'
+- “I need to go run in the morning” => “It’s time to build endurance and get fast”
+- 
