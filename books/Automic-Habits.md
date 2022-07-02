@@ -162,4 +162,9 @@ Your habits are modern-day solutions to ancient desires.
 ## HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS
 - change 'have to' to 'get to'
 - “I need to go run in the morning” => “It’s time to build endurance and get fast”
-- 
+
+# Make It Easy
+## Walk Slowly, but Never Backward
+- Focus on taking action, not being in motion. If I search for a better diet plan and read a few books on the topic, that’s motion. If I actually eat a healthy meal, that’s action.
+- The biggest reason why you slip into motion rather than taking action: **you want to delay failure**
+- The amount of time you have been performing a habit is not as important as the number of times you have performed it.
