@@ -168,3 +168,12 @@ Your habits are modern-day solutions to ancient desires.
 - Focus on taking action, not being in motion. If I search for a better diet plan and read a few books on the topic, that’s motion. If I actually eat a healthy meal, that’s action.
 - The biggest reason why you slip into motion rather than taking action: **you want to delay failure**
 - The amount of time you have been performing a habit is not as important as the number of times you have performed it.
+## How to achieve more with less effort
+**The central idea is to create an environment where doing the right thing is as easy as possible.** 
+1. **Prime The Enviorment For Future use**
+2. **Reduce the friction associated with good behaviors.** When friction is low, habits are easy.
+     - Want to draw more? Put your pencils, pens, notebooks, and drawing tools on top of your desk, within easy reach.
+    - Want to exercise? Set out your workout clothes, shoes, gym bag, and water bottle ahead of time.
+    - Want to improve your diet? Chop up a ton of fruits and vegetables on weekends and pack them in containers, so you have easy access to healthy, ready-to-eat options during the week.
+2. **Increase the friction associated with bad behaviors**. When friction is high, habits are difficult.
+    - If you find yourself watching too much television, for example, then unplug it after each use. Only plug it back in if you can say out loud the name of the show you want to watch. This setup creates just enough friction to prevent mindless viewing.
