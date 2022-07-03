@@ -177,3 +177,13 @@ Your habits are modern-day solutions to ancient desires.
     - Want to improve your diet? Chop up a ton of fruits and vegetables on weekends and pack them in containers, so you have easy access to healthy, ready-to-eat options during the week.
 2. **Increase the friction associated with bad behaviors**. When friction is high, habits are difficult.
     - If you find yourself watching too much television, for example, then unplug it after each use. Only plug it back in if you can say out loud the name of the show you want to watch. This setup creates just enough friction to prevent mindless viewing.
+
+## The Two-Minute Rule
+**Habits are the entry point, not the end point.** They are the cab, not the gym. Even when you know you should start small, it’s easy to start too big.
+
+Any habit can be scaled down into a two-minute version:
+- “Read before bed each night” becomes “Read one page.”
+- “Do thirty minutes of yoga” becomes “Take out my yoga mat.”
+- “Study for class” becomes “Open my notes.”
+- “Fold the laundry” becomes “Fold one pair of socks.”
+- “Run three miles” becomes “Tie my running shoes.”
